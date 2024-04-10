@@ -220,7 +220,7 @@ def is_admin():
         return False
 
 if is_admin():
-    #time.sleep(100)
+    time.sleep(100)
     #main start
     Pattern_switch = re.compile(r'switch01')
     Pattern_process = re.compile(r'PB_from_option')
@@ -229,7 +229,7 @@ if is_admin():
     PB_from_option = []
     switch01 = ""
     while True:
-        print("check")
+        #print("check")
         HB_from_option = []
         try:
             option = open("option", 'r', encoding='UTF-8')
