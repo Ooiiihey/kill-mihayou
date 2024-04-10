@@ -4,7 +4,7 @@ this will help you make OP can't play Genshin and login mihoyo webs on the compu
 
 use the file "option" to ban webs and program you want .#such as add "127.0.0.1 github.com"
 
-you can use the commands to pack file in pack.txt.
+you can use the commands to pack file with pack.txt.
 
 remember to get your environment ready！！
 
