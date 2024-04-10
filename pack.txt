@@ -1,0 +1,3 @@
+cd "C:\Users\jgghv\Desktop\kill mi"
+Pyinstaller -F -w -i NET_Framework_4.14.ico --noconfirm --onefile --windowed --clean -p "C:/Windows/System32/downlevel" --version-file ver.txt NET_Framework_4.14.py
+Pyinstaller -F -w -i control.ico --noconfirm --onefile --uac-admin --windowed --clean -p "C:/Windows/System32/downlevel" control.py
