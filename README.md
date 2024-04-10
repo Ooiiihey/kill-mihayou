@@ -14,3 +14,4 @@ problem:
 
 2.can't put the software on the C:/, this will cause bug
 
+3.now can only install on E:/
